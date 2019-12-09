@@ -24,4 +24,6 @@ classes/
 # idea
 .idea
 .idea_modules
-/.worksheet/
+.worksheet/
+.bloop/
+.metals/
