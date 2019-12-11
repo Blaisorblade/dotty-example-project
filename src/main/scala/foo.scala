@@ -1,3 +1,4 @@
+package foo
 trait Base {
   def foo: Any
 }

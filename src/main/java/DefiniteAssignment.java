@@ -1,4 +1,4 @@
-public class DefiniteAssigment {
+public class DefiniteAssignment {
   public static void main(String[] args) {
     int x;
     while (true) {

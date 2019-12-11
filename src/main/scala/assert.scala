@@ -1,3 +1,5 @@
+package assert
+
 import scala.quoted._
 
 inline def assert(expr: => Boolean): Unit =
